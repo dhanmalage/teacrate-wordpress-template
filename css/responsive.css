@@ -1,0 +1,294 @@
+/*
+*
+* Responsive design styles
+*/
+
+@media only screen and (min-width: 320px) and (max-width: 479px){ 
+	.visualiser-sidebar{
+		display: none;
+	}
+	
+	.navbar-default .navbar-toggle .icon-bar {
+		background-color: #8454a0;
+	}
+	
+	.navbar-default .navbar-toggle {
+		border-color: #8454a0;
+	}
+	
+	.navbar-default .navbar-nav > li > a {
+		text-align: center;
+	}
+	
+	#search-btn {
+		text-align: center;
+	}
+	
+	.search-submit {
+		display: block;
+		margin: auto;
+	}
+	
+	.search-form-wrap {
+		height: 100px;
+	}
+	
+	.dropdown-menu {
+	  left: 50%;
+	  right: auto;
+	  text-align: center;
+	  transform: translate(-50%, 0);
+	}
+	
+	.contact-banner h3 {
+		font-size: 18px;
+	}
+	
+	.inner-page-checklist-wrapper .buttons a {
+		width: 135px;
+		font-size: 13px;
+	}
+	
+	.sp-thumbnail-image {
+		padding-left: 0;
+	}
+	
+	.main-slider-text{
+		font-size: 12px !important;
+		line-height: 14px !important;
+	}
+	
+	.main-slider-text2{
+		font-size: 12px !important;
+		line-height: 14px !important;
+	}
+		
+ }
+
+@media only screen and (min-width: 480px) and (max-width: 767px){ 
+	.visualiser-sidebar{
+		display: none;
+	}
+	
+	.navbar-default .navbar-toggle .icon-bar {
+		background-color: #8454a0;
+	}
+	
+	.navbar-default .navbar-toggle {
+		border-color: #8454a0;
+	}
+	
+	.navbar-default .navbar-nav > li > a {
+		text-align: center;
+	}
+	
+	#search-btn {
+		text-align: center;
+	}
+	
+	.search-submit {
+		display: block;
+		margin: auto;
+	}
+	
+	.search-form-wrap {
+		height: 100px;
+	}
+	
+	.dropdown-menu {
+	  left: 50%;
+	  right: auto;
+	  text-align: center;
+	  transform: translate(-50%, 0);
+	}
+	
+	.contact-banner h3 {
+		font-size: 18px;
+	}
+	
+	.inner-page-checklist-wrapper .buttons a {
+		width: 135px;
+		font-size: 13px;
+	}
+	
+	.sp-thumbnail-image {
+		padding-left: 0;
+	}
+	
+	.main-slider-text{
+		font-size: 16px !important;
+		line-height: 16px !important;
+	}
+	
+	.main-slider-text2{
+		font-size: 16px !important;
+		line-height: 16px !important;
+	}
+	
+ }
+
+@media only screen and (min-width: 768px) and (max-width: 991px){ 
+
+	
+	
+ }
+ 
+ @media only screen and (min-width: 769px) and (max-width: 1200px){ 
+ 
+	.navbar-header {
+		width: 100% !important;
+	}
+	.main-logo {
+		max-width: 150px;
+		margin: auto;
+	}
+	.navbar-default .navbar-nav > li > a {
+		color: #797979;
+		text-transform: uppercase;
+		font-weight: 400;
+		padding-right: 10px;
+		padding-left: 0;
+		font-size: 13px;
+	}
+	
+	.main-slider-text{
+		font-size: 25px !important;
+	}
+ }
+ 
+ @media only screen and (min-width: 992px) and (max-width: 1439px){
+     .navbar-header {
+        width: 11%;
+    }
+    .navbar-default .navbar-nav > li > a {
+         padding-right: 20px;
+     }
+    #menu-main-menu {
+        margin-top: 0px;
+    }
+    .navbar-nav>li>a {
+        padding-top: 15px;
+    }
+    .navbar-default .navbar-nav > li > a {
+        padding-left: 0;
+    }
+    .navbar-logo-alternative img {
+        max-width: 40px !important;
+    }
+    .header-tel {
+        margin-top: 0px;
+    }
+    .header-tel a {
+        font-size: 16px !important;
+    }
+    .header-tel i {
+        font-size: 12px !important;
+    }
+    #navbar-frm-search{
+        margin-top: 7px;
+    }
+    #navbar-frm-search button {
+        margin-top: 0;
+    }
+    .navbar-menu-button{
+        margin-top: 0;
+    }
+    .planting-services-wrap-right img {
+        margin-top: 70px;
+    }
+    .planting-services-wrap-right p {
+        margin-top: 75px;
+    }
+
+    .why-us-section h2 {
+        font-size: 36px;
+    }
+    .why-us-section h4 {
+        font-size: 18px;
+    }
+    .why-us-section span {
+        font-size: 13px;
+    }
+    .about-us {
+        padding: 25px 20px 5px;
+    }
+    .about-us .about-content {
+        font-size: 14px;
+    }
+    .our-clients h2 {
+        font-size: 25px;
+    }
+    .our-clients .clients-row {
+        padding-top: 30px;
+        padding-right: 10px;
+        padding-left: 30px;
+    }
+    .bottom-interior-planting-content p {
+        padding-top: 5px;
+        line-height: 19px;
+        margin-bottom: 0px;
+    }
+    .bottom-interior-planting-content ul li {
+        line-height: 22px;
+    }
+    .why-us-section .why-us-content {
+        padding-bottom: 0;
+        padding-left: 12px;
+        padding-top: 0;
+        margin-top: 48px;
+    }
+    .about-us .round-number {
+        width: 100px;
+        height: 100px;
+        font-size: 55px;
+    }
+    .about-us .round-number-long {
+        width: 100px;
+        height: 100px;
+        font-size: 40px;
+    }
+
+    .thumbnail h3 {
+        font-weight: 400;
+        font-size: 16px;
+    }
+
+    .navbar-default .navbar-nav > li > a {
+        font-weight: 500;
+    }
+	
+	.summer-basket-product-gallery ul li img{
+        width: 90px;
+        padding-right: 30px;
+    }
+	
+	.navbar-default .navbar-nav > li > a {
+		color: #797979;
+		text-transform: uppercase;
+		font-weight: 400;
+		padding-right: 8px;
+		padding-left: 5px;
+	}
+	
+	.main-slider-text{
+		font-size: 25px !important;
+		line-height: 25px !important;
+	}
+		
+ }
+
+@media only screen and (min-width: 1440px) and (max-width: 1999px){ 
+	.navbar-default .navbar-nav > li > a {
+		color: #797979;
+		text-transform: uppercase;
+		font-weight: 400;
+		padding-right: 8px;
+		padding-left: 7px;
+	}
+	
+	.main-slider-text{
+		font-size: 25px !important;
+	}
+	
+ }
+
